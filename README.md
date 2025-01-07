@@ -11,4 +11,5 @@ This tutorial introduces several examples to help second-year university student
 * Texas EVM board Extension: An example of the Symbol Editor
 
 ## Importing External PCBs
-* [Adafruit nRF52 Bluefruit feather](Adafruit_nRF52_Bluefruit): from [Eagle PCB](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB), [3D model](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/4062%20nRF52840%20Feather)
+* [Adafruit nRF52 Bluefruit feather](Adafruit_nRF52_Bluefruit) from [Eagle PCB](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB), [3D model](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/4062%20nRF52840%20Feather)
+![Adafruit_nRF52_Bluefruit](./Video/circuitpython_4062-nRF52830-Feather.mp4)
