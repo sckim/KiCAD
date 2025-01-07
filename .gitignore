@@ -31,6 +31,5 @@ fp-info-cache
 *.csv
 
 desktop.ini
-Adafruit_nRF52_Bluefruit
 Arduino_UNO
 *.zip

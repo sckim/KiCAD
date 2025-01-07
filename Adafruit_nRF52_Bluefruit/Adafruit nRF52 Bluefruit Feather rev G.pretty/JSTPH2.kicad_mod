@@ -1,0 +1,271 @@
+(footprint "JSTPH2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "2-Pin JST PH Series Right-Angle Connector (+/- for batteries)")
+	(property "Reference" "REF**"
+		(at -2.2225 -1.9685 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "24f1a380-203e-4a2c-8b2a-743741ff4d69")
+		(effects
+			(font
+				(size 0.666496 0.666496)
+				(thickness 0.146304)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "JSTPH2"
+		(at -2.2225 -1.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7ff3af26-5cd1-4933-bfea-fe64026c1987")
+		(effects
+			(font
+				(size 0.36576 0.36576)
+				(thickness 0.04064)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8226887-44a7-4f7d-b0ee-ca6da119d709")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fff53c4a-09db-4f2b-9b86-ab087899e6cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50ba8067-893c-4966-b2e4-f4ab741dd5be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4 4.5)
+		(end -4 0.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3281a0b4-c987-40ca-905d-1eafe655576f")
+	)
+	(fp_line
+		(start -3.15 2)
+		(end -3.15 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b681122b-c2a8-4b4f-bfb2-4ffa9bd66765")
+	)
+	(fp_line
+		(start -3.15 4.5)
+		(end -4 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7c4f4a6-94b7-46c8-bcdf-eaee5ea3ccaa")
+	)
+	(fp_line
+		(start -2.25 -3)
+		(end 2.25 -3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3eacc838-97b6-4aab-9f23-1114e147b321")
+	)
+	(fp_line
+		(start -1.75 2)
+		(end -3.15 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a6d4d40a-a2a3-40c3-a8f0-4fa6efcd04e0")
+	)
+	(fp_line
+		(start 3.15 2)
+		(end 1.75 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f2be7bc-b2e0-4e5c-8be4-e99683153ceb")
+	)
+	(fp_line
+		(start 3.15 4.5)
+		(end 3.15 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "db786407-94ab-4556-a948-c92fcf696da0")
+	)
+	(fp_line
+		(start 4 0.5)
+		(end 4 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d318f12-47b4-4776-a2e4-9189fbdb0ae7")
+	)
+	(fp_line
+		(start 4 4.5)
+		(end 3.15 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4dfcc2f8-4c0a-443b-aa0d-48f4e705804a")
+	)
+	(fp_line
+		(start -4 -3)
+		(end 4 -3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64f2bf49-11ed-4de2-9261-db3c07a33a7f")
+	)
+	(fp_line
+		(start -4 4.5)
+		(end -4 -3)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78a3db20-43b8-4305-b2df-b5cc43bedc70")
+	)
+	(fp_line
+		(start -3.2 2)
+		(end -3.2 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05e7ea98-14f2-48aa-bd03-8ac7710b60ad")
+	)
+	(fp_line
+		(start -3.2 4.5)
+		(end -4 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8a2eaea-9454-4c27-a352-6e934b9a8f89")
+	)
+	(fp_line
+		(start 3.2 2)
+		(end -3.2 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eabc5faf-6f15-44f7-8a08-bd39fcabd6aa")
+	)
+	(fp_line
+		(start 3.2 4.5)
+		(end 3.2 2)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "50a6a56a-60d5-40cb-b000-93b5a154213b")
+	)
+	(fp_line
+		(start 4 -3)
+		(end 4 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df7ee1d2-ec25-4b0a-991f-a85f96b64fcc")
+	)
+	(fp_line
+		(start 4 4.5)
+		(end 3.2 4.5)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "89af4667-48c1-4b7b-8be1-ff7c4b2116e5")
+	)
+	(pad "1" smd rect
+		(at -1 3.7)
+		(size 1 4.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "4161fbd6-029d-40b0-b013-be9494a73ae7")
+	)
+	(pad "2" smd rect
+		(at 1 3.7)
+		(size 1 4.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "3ee25fb8-d0e0-4bf6-b385-c6b0071cb8b3")
+	)
+	(pad "NC1" smd rect
+		(at -3.4 -1.5 90)
+		(size 3.4 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "581fc19d-ccbc-41e6-8d9c-4ba2a424871f")
+	)
+	(pad "NC2" smd rect
+		(at 3.4 -1.5 90)
+		(size 3.4 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "c0120d01-598c-4c4c-8f4b-89f9ba06c0b3")
+	)
+)

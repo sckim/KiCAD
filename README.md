@@ -1,9 +1,14 @@
 # KiCAD Tutorial
-대학교 2학년을 대상으로 KiCAD의 사용법을 익히기 위한 몇 가지 예를 소개한다.
+This tutorial introduces several examples to help second-year university students learn how to use KiCAD. For more detailed explanations, please refer to [this document](https://docs.google.com/document/d/1ExvIu8tnpRs45NydWLtySDykhyoZ8oFFZSsFo3mHvT8/edit?tab=t.0#heading=h.j3pbzu6m0ixx).
 
-* [Simple_LED](Simple_LED) : 회로도에서 PCB까지 간단한 예
-* [WheatstoneBridge](WheatstoneBridge): 아날로그 시뮬레이션의 예
-* [4bitsFullAdder](4bitsFullAdder): 계층 구조의 예
-* [Arduino_UNO](Arduino_UNO): Arduino UNO PCB 가져오기
-* [Adafruit_nRF52_Bluefruit](Adafruit_nRF52_Bluefruit): Eage PCB 가져오기
+## PCB Examples
+* [Simple LED](Simple_LED): A simple example from schematic to PCB
+* [Wheatstone Bridge](WheatstonBridge): An example of analog simulation
+* 4bitsFullAdder: An example of hierarchical design
 
+## Symbol & Footprint Editor
+* Arduino_UNO: 
+* Texas EVM board Extension: An example of the Symbol Editor
+
+## Importing External PCBs
+* [Adafruit nRF52 Bluefruit feather](Adafruit_nRF52_Bluefruit): from [Eagle PCB](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB), [3D model](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/4062%20nRF52840%20Feather)
