@@ -13,8 +13,8 @@ This tutorial introduces several examples to help second-year university student
 * [Wheatstone Bridge](./WheatstoneBridge/): An example of analog simulation 
 <table>
     <tr>
-        <td><img src="images/Wheatstone_bridge_Symbol.png" alt="Wheatstone bridge Schematic" height="50%"></td>
-        <td><img src="images/Wheatstone_bridge_PCB.png" alt="Wheatstone bridge PCB" height="50%"></td>
+        <td><img src="images/WheatstoneBridge_schematic.png" alt="Wheatstone Bridge Schematic" height="50%"></td>
+        <td><img src="images/WheatstoneBridge_PCB.png" alt="Wheatstone Bridge PCB" height="50%"></td>
     </tr>
 </table>
 
