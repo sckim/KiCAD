@@ -3071,8 +3071,8 @@
 		(uuid "0e31cd28-dd52-41c8-8441-6cdb321cb159")
 	)
 	(gr_line
-		(start 57.8 82.5)
-		(end 57.9 29.2)
+		(start 65.202 82.474)
+		(end 65.202 29.154)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -3081,7 +3081,7 @@
 		(uuid "21bb8245-08da-4faf-86ef-97cf424c73bb")
 	)
 	(gr_line
-		(start 57.9 29.2)
+		(start 65.252 29.154)
 		(end 122.4 29.2)
 		(stroke
 			(width 0.05)
@@ -3112,7 +3112,7 @@
 	)
 	(gr_line
 		(start 124 82.5)
-		(end 57.8 82.5)
+		(end 65.202 82.474)
 		(stroke
 			(width 0.05)
 			(type default)

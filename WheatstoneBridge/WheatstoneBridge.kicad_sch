@@ -1012,6 +1012,12 @@
 		(uuid "7d9eadc1-40ed-4ea5-b34d-698b94609558")
 	)
 	(junction
+		(at 127 105.7479)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aec254bd-b5ed-499f-90f2-5ca51044f849")
+	)
+	(junction
 		(at 101.6 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1112,6 +1118,36 @@
 			(type default)
 		)
 		(uuid "54b80032-6620-4f57-b5ef-bb4215f9292a")
+	)
+	(wire
+		(pts
+			(xy 127 105.7479) (xy 127 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5707b3bc-9213-431c-8bcf-3ce108d64aef")
+	)
+	(wire
+		(pts
+			(xy 120.8991 113.03) (xy 120.8991 105.7479)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67c2b9a6-e3e0-4c18-9a8d-cd032a2f982a")
+	)
+	(wire
+		(pts
+			(xy 123.19 113.03) (xy 120.8991 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "774b3bff-e89c-45a1-9a1f-8f4505d878df")
 	)
 	(wire
 		(pts
@@ -1235,13 +1271,23 @@
 	)
 	(wire
 		(pts
-			(xy 127 100.33) (xy 127 109.22)
+			(xy 127 100.33) (xy 127 105.7479)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e579b521-2b33-4d45-8ae0-f702f9fcd138")
+	)
+	(wire
+		(pts
+			(xy 120.8991 105.7479) (xy 127 105.7479)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdd0f442-d214-42b1-a283-283fbebcbcf9")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -1512,73 +1558,6 @@
 			(project "WheatstonBridge"
 				(path "/0611fe71-1d24-40c7-ac54-4fb53423ef94"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 123.19 113.03 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86bead43-7ea7-4789-99f8-a910e5c421dd")
-		(property "Reference" "#PWR03"
-			(at 116.84 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.38 113.0299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 123.19 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 123.19 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a9b54e93-048f-4489-b319-78ceb43f8897")
-		)
-		(instances
-			(project "WheatstonBridge"
-				(path "/0611fe71-1d24-40c7-ac54-4fb53423ef94"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
