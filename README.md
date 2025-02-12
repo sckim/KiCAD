@@ -37,7 +37,13 @@ This tutorial introduces several examples to help second-year university student
         <td><img src="images/Arduino_UNO_Footprint.png" alt="Arduino_UNO Footprint" heigth="50%"></td>
     </tr>
 </table>
-* Texas EVM board Extension
+
+## [Analog discovery II with UNO or Adafruit_nRF52_Bluefruit](/Arduino_AD2Kit/)
+
+
+## Texas EVM board Extension
+
+## Simulation
 
 ## Importing External PCBs
 * [Adafruit nRF52 Bluefruit feather](./Adafruit_nRF52_Bluefruit/) from [Eagle PCB](https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB), [3D model](https://github.com/adafruit/Adafruit_CAD_Parts/tree/main/4062%20nRF52840%20Feather)  

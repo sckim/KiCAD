@@ -416,7 +416,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "WheatstoneBridge.kicad_pro",
+    "filename": "Experimental_Kit.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./gerber",
+      "plot": "gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -527,11 +527,23 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "설명",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -569,7 +581,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "WheatstoneBridge.wbk"
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -584,7 +596,7 @@
   },
   "sheets": [
     [
-      "58698d82-2f29-4322-bfcf-5d3d5cff13f7",
+      "2df1af00-df0e-4456-8bbe-22f5d9c95c54",
       "Root"
     ]
   ],
