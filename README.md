@@ -39,7 +39,12 @@ This tutorial introduces several examples to help second-year university student
 </table>
 
 ## [Analog discovery II with UNO or Adafruit_nRF52_Bluefruit](/Arduino_AD2Kit/)
-
+<table>
+    <tr>
+        <td><img src="images/AD2_interface.png" alt="AD2 interface schematic" height="50%"></td>
+        <td><img src="images/AD2_interface_PCB.png" alt="AD2 interface PCB" heigth="50%"></td>
+    </tr>
+</table>
 
 ## Texas EVM board Extension
 
