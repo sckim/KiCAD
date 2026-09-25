@@ -38,6 +38,10 @@ This tutorial introduces several examples to help second-year university student
     </tr>
 </table>
 
+## ATmega328P Boards
+* [Arduino UNO (ATmega328P)](./Arduino_UNO_ATmega328P/): A full UNO-compatible board built on the Arduino_UNO template (ATmega328P, crystal, reset, ICSP, PCB)
+* [ATmega328P Minimal](./ATmega328P_Minimal/): A minimal ATmega328P DIP-28 board (schematic only)
+
 ## [Analog discovery II with UNO or Adafruit_nRF52_Bluefruit](/Arduino_AD2Kit/)
 <table>
     <tr>

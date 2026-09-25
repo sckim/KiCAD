@@ -33,3 +33,5 @@ fp-info-cache
 desktop.ini
 Arduino_UNO
 *.zip
+# Local file history (VS Code Local History extension)
+.history/
